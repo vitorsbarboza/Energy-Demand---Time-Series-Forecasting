@@ -1,4 +1,4 @@
-# (EN) # Energy Demand Forecasting - Time Series Analysis
+# (EN) Energy Demand Forecasting - Time Series Analysis
 
 ## Introduction
 
@@ -73,7 +73,7 @@ The analysis of variation in validation and test years provided additional infor
 
 This study demonstrates the significant potential of advanced time series modeling techniques in forecasting electricity demand. The successful application of these models can substantially contribute to a more efficient, economical, and sustainable energy sector in Brazil, aligning with the country's sustainable development goals and energy transition targets.
 
-# (PT-BR) # Previsão de Demanda de Energia - Análise de Séries Temporais
+# (PT-BR) Previsão de Demanda de Energia - Análise de Séries Temporais
 
 ## Introdução
 
